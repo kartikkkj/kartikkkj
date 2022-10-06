@@ -8,6 +8,6 @@
 
 - 💬ask me about **Web-Development**
 
-- 📧 Connect on Gmail **aky8507049610@gmail.com**
+- 📧 Connect on Gmail **itsonlykartik@gmail.com**
 
 - ⚡ Fun fact **I am engineer 😊**
