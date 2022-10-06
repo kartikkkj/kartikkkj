@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kartik Jha</h1>
+<h3 align="center">A passionate developer who learning Web-Development</h3>
 
-<!--
-**kartikkkj/kartikkkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- - 🔭 I’m currently working on **CRUD-APP** -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Blockchain**
+
+- 💬ask me about **Web-Development**
+
+- 📧 Connect on Gmail **aky8507049610@gmail.com**
+
+- ⚡ Fun fact **I am engineer 😊**
