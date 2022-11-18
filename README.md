@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Jha</h1>
-<h3 align="center">A passionate developer who learning Web-Development</h3>
+<h3 align="center">A passionate Planning Analyst Design developer</h3>
 
 
 <!-- - 🔭 I’m currently working on **CRUD-APP** -->
