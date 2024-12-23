@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on **CRUD-APP** -->
 
-- 🌱 I’m currently learning **Core Devsecops practises**
+- 🌱 I’m currently working **Core Devsecops practises**
 
 - 💬ask me about **Devops, cloud, AWS, Azure, Ansible, Terraform, Jenkins**
 
